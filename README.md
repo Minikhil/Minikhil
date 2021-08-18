@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Nikhil Mithani 👋
+
+I work as a Full-Stack Web Devloper. I'm based in New York, U.S.A
+
+Since 2016 I've been living and breathing web development. I have had the chance to leverage many different 
+web technologies through various works and projects. 
 
 <!--
 **Minikhil/Minikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
