@@ -1,10 +1,11 @@
 ### Hi, I'm Nikhil Mithani 👋
 
-I work as a Full-Stack Web Devloper. I'm based in New York, U.S.A
-
-Since 2016 I've been living and breathing web development. I have had the chance to leverage many different 
-web technologies through various works and projects. 
-
+- 👨‍💻 I’m currently working at [Audible](https://www.audible.com/) as a Software Engineer
+- 🚀 I'm currently building [Spymastergame](https://spymastergame.com)
+- 🌱 I’m currently learning Next.js
+- 📍 I'm based in NYC, New York
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikhilmithani/)
+  
 <!--
 **Minikhil/Minikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
